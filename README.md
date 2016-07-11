@@ -2,7 +2,7 @@
 
 Installation :         
 ```
-wget https://github.com/hg8/bluetooth-firmware-XPS13-9343/blob/master/BCM20702A0-0a5c-216f.hcd  
+wget https://github.com/hg8/bluetooth-firmware-XPS13-9343/raw/master/BCM20702A0-0a5c-216f.hcd 
 sudo cp BCM20702A0-0a5c-216f.hcd /lib/firmware/brcm/
 ```    
 
